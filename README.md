@@ -38,7 +38,7 @@ Installation / Usage
 
 1.Clone the repository:
 
-https://github.com/Vaishnaviii002/Cursor
+https://github.com/Garvitob/Cursor
 
 2.Project Screenshot
 
