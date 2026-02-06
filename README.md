@@ -30,7 +30,7 @@ Logo showcase grids
 Installation / Usage
 
 Clone the repository:
-https://github.com/Vaishnaviii002/Cursor
+https://github.com/Garvitob/Cursor
 
 Project Screenshot
 
