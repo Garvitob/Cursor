@@ -42,6 +42,8 @@ https://github.com/Garvitob/Cursor
 
 2.Project Screenshot
 
+https://github.com/Garvitob/Cursor/blob/main/Screenshot%202026-02-07%20023103.png?raw=true
+
 3.Live Demo
 
 Live Website: https://cursor-chi-tan.vercel.app/
