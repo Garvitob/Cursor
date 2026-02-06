@@ -42,7 +42,8 @@ https://github.com/Garvitob/Cursor
 
 2.Project Screenshot
 
-https://github.com/Garvitob/Cursor/blob/main/Screenshot%202026-02-07%20023103.png?raw=true
+<img width="1856" height="912" alt="image" src="https://github.com/user-attachments/assets/392fa6a7-8fdd-4ef2-8e78-22eb4d2e35f1" />
+
 
 3.Live Demo
 
