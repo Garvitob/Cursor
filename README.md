@@ -55,4 +55,4 @@ https://github.com/Garvitob/Cursor
 
 3.Live Demo
 
-Live Website: https://cursor-chi-tan.vercel.app/
+Live Website: https://cursor-omega-one.vercel.app/
